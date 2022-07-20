@@ -8,6 +8,6 @@
 
 [Our first team battle](https://lichess.org/tournament/5tAbfyJn)
 
-**[Tournaments](https://lichess.org/team/chessfans123/tournaments)
+**[Tournaments](https://lichess.org/team/chessfans123/tournaments)**
 
 # We hope you enjoy our tournaments!
