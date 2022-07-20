@@ -11,5 +11,3 @@
 **[Tournaments](https://lichess.org/team/chessfans123/tournaments)**
 
 # We hope you enjoy our tournaments!
-
-[Contact](https://chessfansgithub.github.io/OfficalWebsite/contact.md)
